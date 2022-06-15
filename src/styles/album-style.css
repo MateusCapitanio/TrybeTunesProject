@@ -1,0 +1,11 @@
+.list-songs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.album-description {
+  text-align: center;
+  width: 500px;
+}

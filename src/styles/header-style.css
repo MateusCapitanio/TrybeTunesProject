@@ -1,0 +1,39 @@
+.user-login {
+  background: white;
+  border-radius: 50px;
+  color: rgb(235, 96, 96);
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 10px 30px;
+}
+
+.header {
+  align-items: center;
+  background: rgb(235, 96, 96);
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.header h1 {
+  color: white;
+  margin: 10px;
+}
+
+.links a {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+
+.links a:hover {
+  background: white;
+  border-radius: 50px;
+  color: rgb(235, 96, 96);
+  padding: 10px 30px;
+  transition: 0.5s;
+}

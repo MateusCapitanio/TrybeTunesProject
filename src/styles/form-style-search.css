@@ -1,0 +1,57 @@
+.form-style-search {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.form-style-search input {
+  border: 0.5px solid rgb(202, 202, 202);
+  border-radius: 10px;
+  font-size: 20px;
+  margin: 10px;
+  padding: 15px;
+  padding-right: 200px;
+}
+
+.form-style-search input:focus {
+  border: 1px solid rgb(235, 96, 96);
+}
+
+.form-style-search button {
+  background: rgb(202, 202, 202);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: default;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 15px;
+}
+
+.content-artists {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.artists {
+  text-align: center;
+  width: 80%;
+}
+
+.artists h1 {
+  color: rgb(235, 96, 96);
+}
+
+.listcard {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listcard a {
+  color: black;
+  text-decoration: none;
+}
+
