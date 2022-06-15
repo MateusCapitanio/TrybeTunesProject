@@ -30,7 +30,7 @@
 
 ---
 
-# Como rodar o projeto:
+## Como rodar o projeto:
   1. Clone o repositório (método SSH) `git clone git@github.com:MateusCapitanio/TrybeTunesProject.git`;
   2. Execute `npm install`;
   3. Execute `npm start`;
